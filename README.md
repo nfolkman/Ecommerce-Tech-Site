@@ -1,6 +1,6 @@
 <h1>Ecommerce Tech Site</h1>
 
-## Getting Started
+<h3>Getting Started</h3>
 
 First, run the development server:
 
